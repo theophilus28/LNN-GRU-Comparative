@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 
 **/*.parquet
+data/data/*.csv
