@@ -182,3 +182,4 @@ cython_debug/
 
 **/*.parquet
 data/data/*.csv
+**/*.pt
